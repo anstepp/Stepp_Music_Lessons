@@ -14,7 +14,7 @@ This repo hosts the code for Aaron Stepp's music lessons site.
 
 3. Start the Docker container.
    ```
-   docker run -it --rm -p 4000:4000 -p 35729:35729 -v ./site:/site jekylldev bash
+   docker run -it --rm -p 4000:4000 -p 35729:35729 -v ./docs:/site jekylldev bash
    ```
 
 4. Inside the Docker container, run jekyll in live reload mode.
@@ -27,4 +27,4 @@ This repo hosts the code for Aaron Stepp's music lessons site.
    http://localhost:4000/Stepp_Music_Lessons/
    ```
 
-6. Edit the markdown code in `_pages/` to update content.
+6. Edit the markdown code in `docs/_pages/` to update content.
