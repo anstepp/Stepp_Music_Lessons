@@ -1,6 +1,6 @@
 # Aaron Stepp Music Lessons
 
-This repo hosts the code for Aaron Stepp's music lessons site.
+This repo hosts the code for Aaron Stepp's music lessons site: [https://anstepp.github.io/Stepp_Music_Lessons/](https://anstepp.github.io/Stepp_Music_Lessons/)
 
 ## Develop locally
 
