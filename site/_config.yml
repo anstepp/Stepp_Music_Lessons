@@ -1,0 +1,33 @@
+# Site settings
+title: Aaron Stepp
+description: >- # this means to ignore newlines until "baseurl:"
+  I offer lessons in music theory and composition.
+baseurl: "/Stepp_Music_Lessons"
+url: "https://anstepp.github.io"
+
+# Build settings.
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+include:
+  - _pages
+
+header_pages:
+  - _pages/about_me.md
+  - _pages/crash_course.md
+  - _pages/personalized_lessons.md
+  - _pages/book_lessons.md
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
