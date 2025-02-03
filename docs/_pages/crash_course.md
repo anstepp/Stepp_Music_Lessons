@@ -6,31 +6,22 @@ permalink: /crash-course/
 
 ## Music theory crash course for singer-songwriters
 
-- Make your songs have more impact
-- Spice up your chord progressions
-- Develop more original melodies
-- Improve your musicianship
-
-
-My music theory "crash course" for singer-songwriters is a course of ten one-hour sessions. This course will help you improve your skills as a songwriter (or producer), and is designed to give you understanding of relevant music theory that will help you feel more confident in the practice room, studio, and while songwriting.
+I’m offering an introductory music theory course for singer-songwriters in ten, one-hour sessions. I’ve taught classes and lessons in theory for songwriters and musicians over the past 20 years, and want to help you advance your writing and listening skills.
 
 ### What we will do
 
-- Discuss how to talk about the form of a song to improve rehearsal and songwriting, using examples from popular music.
+- Musical form, helping diversify your songwriting and enhancing communication with backing musicians
+  
+- Nashville Numbers and reading lead sheets, so you can better communicate your ideas with other musicians and improve your study skills
+  
+- The language of music theory including relationships between scientific measurements (Hz, etc) and musical notation (A-flat, etc), giving you confidence to express your desires to recording engineers.
+  
+- How chord progressions and cadences work, so you can vary your musical ideas in your songs and create your unique voice
+  
+- Basic Music Technology concepts, demystifying recording technology and jargon so you can make sure you get the best available product from your recording and mastering engineers
+  
+- Practice techniques so you can continue developing your skills after the lessons 
 
-- Understand basic musical theory - how to determine key, basic chromaticism, and the musical alphabet (for instance - why is it A-flat major, but G-sharp minor?)
+Knowledge is power, and I can help you become a more confident artist, songwriter, and musician.
 
-- Basic relationships between technical expressions (Hz, etc.) and musical expression (A-flat, etc.)
-
-- Tonal vs. modal harmony, using examples from popular music
-
-### What we won’t do
-
-- Counterpoint (unless you want!)
-
-- Roman numeral analysis of Bach chorales (unless you want!)
-
-- Learning about 16th-Century Church music (again, unless you want!)
-
-
-Knowledge is power, and I’ve got a 20-year track record of helping musicians across genres and of all ages develop confidence, knowledge, and skills to help them grow in their musical journey. I’d love to help you improve your skills and confidence in creating individual expressions through songs and music.
+I look forward to hearing from you!
