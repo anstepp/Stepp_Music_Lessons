@@ -25,3 +25,5 @@ I’m offering an introductory music theory course for singer-songwriters in ten
 Knowledge is power, and I can help you become a more confident artist, songwriter, and musician.
 
 I look forward to hearing from you!
+
+[Click here to sign up for the crash course](/Stepp_Music_Lessons/book-lessons)
